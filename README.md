@@ -51,7 +51,7 @@ In **DopeCop**, you take on the role of a detective tasked with chasing down ath
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/DopeCop.git](https://github.com/PriyanshuDas01/DopeCop-Host/
+   git clone (https://github.com/PriyanshuDas01/DopeCop-Host/
 
 
    Open the project in Unity:
