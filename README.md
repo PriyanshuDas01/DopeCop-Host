@@ -2,7 +2,7 @@
 
 **DopeCop** is a 3D game created using Unity and hosted via WebGL. It is designed to educate young athletes about anti-doping regulations through immersive gameplay. The project was developed during the **Smart India Hackathon (SIH) 2024** as part of the broader initiative to promote clean sports under the project name **Fair Play**.
 
-![Home page](https://drive.google.com/uc?id=1WE6QoBU-hEVcIBXHS9TkGiJm4w-QLPLY)
+![Home page](https://github.com/user-attachments/assets/32ac8bc0-b4ae-48a8-8eb9-a6a2970c241e)
 
 
 ## 🎮 Game Overview
