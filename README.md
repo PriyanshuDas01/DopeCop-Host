@@ -11,6 +11,15 @@ In **DopeCop**, you take on the role of an undercover agent from the anti-doping
 
 The game provides an engaging experience that combines education with fun, ensuring that players not only enjoy the action but also gain valuable knowledge about the consequences of doping in sports.
 
+## 🛠 Development Tools
+- **Game Engine:** Unity 3D (with WebGL for browser compatibility)
+- **Platform:** WebGL for web-hosted deployment
+- **Programming Languages:** C# (for Unity), HTML, JavaScript (for hosting)
+Programming Languages: C# (Unity), HTML, JavaScript (for hosting)
+
+## 🎓 Gameplay
+In **DopeCop**, you take on the role of a detective tasked with chasing down athletes suspected of doping violations. As you pursue them, you'll be challenged with real-time questions related to anti-doping rules and regulations. Answer correctly to close in on the athletes and progress in the game, but beware—wrong answers will give them a chance to escape!
+
 ## ✨ Key Features
 
 - **Immersive 3D Gameplay**: Experience fast-paced chases and thrilling encounters with athletes as you guide them to understand clean sport.
@@ -18,6 +27,12 @@ The game provides an engaging experience that combines education with fun, ensur
 - **Interactive Quizzes**: Knowledge about anti-doping regulations is tested in real time with multiple-choice questions that reinforce key concepts.
 - **Dynamic Storyline**: Your decisions in-game affect the outcome, encouraging players to actively learn while engaging with the narrative.
 - **Educational Focus**: Educates athletes about clean sport, prohibited substances, testing procedures, and more.
+- 
+## 🎯 Challenges Addressed
+- **Educating Through Engagement:** Traditional anti-doping education methods can often feel monotonous and uninspiring. **DopeCop** changes that by offering an interactive and enjoyable learning experience.
+- **Behavioral Change:** By presenting realistic scenarios with consequences, the game encourages athletes and players to internalize and uphold the values of clean sport.
+- **In-Game Decision Making:** Every choice you make affects your progress, making the learning process more engaging and immersive.
+
 
 ## 🛠 Technical Approach
 
@@ -52,16 +67,4 @@ cd Build
 python3 -m http.server
 Open your web browser and navigate to localhost:8000 to view and play the game.
 
-🎓 Gameplay
-As DopeCop, your mission is to chase athletes who might be involved in doping violations.
-During each chase, you'll be prompted with real-time questions about anti-doping rules.
-Correct answers will help you catch the athletes and advance through the game, while wrong answers may let them escape.
-🎯 Challenges Addressed
-Educating Through Engagement: Traditional anti-doping education methods can be dry and fail to capture attention. DopeCop addresses this by making learning interactive and enjoyable.
-Behavioral Change: Through realistic scenarios and consequences, athletes are encouraged to internalize clean sport values.
-In-Game Decision Making: Players' choices impact their progress, making them more invested in learning about anti-doping practices.
-🛠 Development Tools
-Game Engine: Unity 3D (with WebGL)
-Platform: WebGL for web-hosted deployment
-Programming Languages: C# (Unity), HTML, JavaScript (for hosting)
 
